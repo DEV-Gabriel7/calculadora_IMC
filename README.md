@@ -75,7 +75,7 @@ O projeto será aberto automaticamente em `http://localhost:3000`.
 ## 🌐 Deploy
 
 Hospedado via Vercel:  
-👉 [Acesse o projeto](https://calculadora-imc-two-ruby.vercel.app/)
+👉 [Acesse o projeto](https://calculadora-indice-massa-corporal.vercel.app//)
 
 ---
 
